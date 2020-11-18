@@ -1,0 +1,12 @@
+button{
+    font-size: 2em;
+    background: linear-gradient( #8345E5,#FA8072);
+    color: white;
+}
+button:hover{
+    background: linear-gradient(#FA8072, #8345E5);
+}
+img{
+   height: 400px;
+   width: 300;
+}
